@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|園山　よーく (Sonoyama Youku)|
+|Name|園山 よーく (Sonoyama Youku)|
 |Twitter|[@youku_s](https://twitter.com/youku_s)|
 
 ## スキル
