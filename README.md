@@ -25,6 +25,8 @@
 - ScalikeJDBC
 - Akka (Actor周りを少し)
 - Circe
+- Vue.js
+- React.js
 - など
 
 ### その他
@@ -112,7 +114,7 @@
 
 - 規模は5-7人(チームメンバーとして参加)
 - 機械学習のアノテーション工程の従事者を支援するためのWebサービスを作成・運用している
-- 主要技術はScala, Scala.js, AWS, JavaScript, Node.js, Dockerなど
+- 主要技術はScala, Scala.js, AWS, JavaScript, Node.js, Docker, Vue.js, React.jsなど
 
 ## 課外活動
 ### 運営しているサービス
